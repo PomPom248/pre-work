@@ -1,0 +1,177 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.right{
+    float: right;
+}
+
+.left{
+    float: left;
+}
+nav{
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+    padding-top: 10px;
+    height: 30px;
+}
+
+nav a{
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+}
+.top-links{
+    display: inline-block;
+    float:right;
+    padding: 0px;
+    margin: 0 20px 0 0;
+    position: relative;
+    bottom: 18px;
+    }
+
+.top-links li{
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.clearfix{
+    clear: both;
+}
+
+.npm-logo{
+    float:left;
+    width: 100px;
+    margin: 5px 7px;
+}
+input{
+    width: 915px;
+    padding: 10px;
+    font-size: 18px;
+    background: rgb(31, 82, 111);
+    color: white;
+    border:none;}
+form button{
+    padding: 6px 9px 9px;
+    margin-left: -5px;
+    font-size: 22px;
+    background-color: rgb(31, 82, 111);
+    border:none;
+}
+.bear-logo{
+    float: right;
+    display: inline-block;
+    padding: 0px;
+    margin: 0 20px 0 0;
+    position: relative;
+    bottom: 70px;
+}
+.bear-logo li{
+    display: inline-block;
+    font-size: 15px;
+}
+.bear-logo-2{
+    width: 40px;
+    margin: 5px;
+    position: relative;
+    top: 25px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+header{
+    background-color: rgb(32, 101, 136);
+    color: white;
+    padding-top: 15px;
+}
+.build{
+    background-image: url("file:///home/sofia/.cache/.fr-pyNE2Z/lab-html-module-exercise-master/starter-code/images/city-scape.svg");
+    background-color: rgb(32, 101, 136);
+    background-repeat: no-repeat;
+    height: 300px;
+}
+.writing{
+    font-size: 20px;
+    padding-left:70px; 
+    padding-top:20px;
+    width: 50%;
+    text-align: left;
+    color:white;
+}
+.btn{
+    background-color: rgb(240, 146, 51);
+    font-size: 20px;
+    color: white;
+    border-radius: 20px;
+    border-color: transparent;
+    padding: 4px 20px;
+}
+.dark-background{
+    background-color: rgb(39, 53, 71);
+    padding-top:80px;
+    height: 350px;
+    color:white;
+}
+.btn-2{
+    background-color: rgb(203, 56, 55);
+    font-size: 20px;
+    color: white;
+    border-radius: 20px;
+    border-color: transparent;
+    padding: 4px 20px;
+}
+.img-collab{
+    margin: 0 auto;
+    width: 30%;
+    padding-left: 255px;
+    
+}
+
+.writing-2{
+
+    color: white;
+    line-height: 30px;
+    position: relative;
+    right: 35px;
+}
+
+.forklift-back{
+    background-image: url("file:///home/sofia/.cache/.fr-b1Ny0N/lab-html-module-exercise-master/starter-code/images/forklift.svg");
+    background-size: cover;
+    height: 440px;
+}
+.btn-3{
+    background-color: rgb(49, 68, 88);
+    font-size: 20px;
+    color: white;
+    border-radius: 20px;
+    border-color: transparent;
+    padding: 4px 20px;
+}
+h1{
+    font-size: 30px;
+    font-weight: 100;
+}
+.writing-3{
+    color: white;
+    font-size: 20px;
+    padding-top:5px;
+    position: relative;
+    top:80px;
+    left:130px;
+    width: 30%;
+}
+.center{
+    margin: 0 auto;
+}
+.block{
+    width: 33%;
+}
+
+.pink-link{
+    color: rgb(208, 74, 73);
+}
+.color-last-section{
+    color: rgb(135, 145, 156);
+}
+
